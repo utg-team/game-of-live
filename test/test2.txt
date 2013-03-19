@@ -1,6 +1,3 @@
-aejg,dsbgv,jsdfsd,mfg
-shsdhfdgh
-fdghdgfhj
-dfgjdgfj
-djdfgj
-dfgj
+int main(){
+	int test;
+}
